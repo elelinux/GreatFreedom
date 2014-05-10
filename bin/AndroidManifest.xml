@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.cyanogenmod.great.freedom"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Great Freedom">
+    </application>
+
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Great Freedom"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="CyanogenMod" />
+
+</manifest>

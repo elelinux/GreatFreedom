@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2014 The CyanogenMod Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources>
+    <color name="drawer_background_color">#ff000000</color>
+    <color name="bubble_text_color">#ffffffff</color>
+    <color name="bubble_ring_color">#ffffffff</color>
+    <color name="bubble_shadow_color">#ff000000</color>
+    <color name="bubble_background_blue_color">#ff0099cc</color>
+    <color name="bubble_shader_blue_color">#ff50c0e9</color>
+    <color name="bubble_background_purple_color">#ff9933cc</color>
+    <color name="bubble_shader_purple_color">#ffcb97e5</color>
+    <color name="bubble_background_green_color">#ff669900</color>
+    <color name="bubble_shader_green_color">#ffa8d324</color>
+    <color name="bubble_background_orange_color">#ffff8800</color>
+    <color name="bubble_shader_orange_color">#ffffc641</color>
+    <color name="bubble_background_red_color">#ffcc0000</color>
+    <color name="bubble_shader_red_color">#ffff5f5f</color>
+    <color name="bubble_background_black_color">#ff000000</color>
+    <color name="bubble_shader_black_color">#ff888888</color>
+    <color name="delete_target_hover_tint">#daff0000</color>
+    <color name="info_target_hover_tint">#da0099cc</color>
+    <color name="bubble_dark_background">#20000000</color>
+    <color name="appwidget_error_color">#ffcccccc</color>
+    <color name="workspace_all_apps_and_delete_zone_text_color">#ccffffff</color>
+    <color name="workspace_all_apps_and_delete_zone_text_shadow_color">#a0000000</color>
+    <color name="workspace_icon_text_color">#ffffffff</color>
+    <color name="apps_customize_icon_text_color">#ffffffff</color>
+    <color name="wallpaper_picker_translucent_gray">#66000000</color>
+    <color name="folder_items_text_color">#ff333333</color>
+    <color name="outline_color">#ffffffff</color>
+    <color name="shadow_large_color">#dd000000</color>
+    <color name="shadow_small_color">#cc000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
