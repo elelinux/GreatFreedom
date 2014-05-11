@@ -20,7 +20,7 @@
     <scale factor="0.9" />
 
 	<item component="ComponentInfo{com.fdgentertainment.paperama/by.squareroot.paperama.PaperamaActivity}" drawable="paperama" />
-	<item component="ComponentInfo{se.svenskaspel.android2/se.svenskaspel.android.activity.SvenslaSpelActivity}" drawable="svenskaspel" />
+	<item component="ComponentInfo{se.svenskaspel.android2/se.svenskaspel.android.activity.SvenskaSpelActivity}" drawable="svenskaspel" />
 	<item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="photos" />	
 	<item component="ComponentInfo{com.max.KnotsGuide/com.max.KnotsGuide.KnotsGuide}" drawable="knotsguide" />
 	<item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="chromecast" />
