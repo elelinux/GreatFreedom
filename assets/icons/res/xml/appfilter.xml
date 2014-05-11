@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
- * Copyright (C) 2014 The CyanogenMod Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
+<!-- Copyright (C) 2014 The CyanogenMod Project (Esa Laukkanen)
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
 -->
 
 <resources>
 
     <!-- Set deafult scale factor for the icons -->
     <scale factor="0.9" />
-	
+
+	<item component="ComponentInfo{com.fdgentertainment.paperama/by.squareroot.paperama.PaperamaActivity}" drawable="paperama" />
+	<item component="ComponentInfo{se.svenskaspel.android2/se.svenskaspel.android.activity.SvenslaSpelActivity}" drawable="svenskaspel" />
+	<item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="photos" />	
 	<item component="ComponentInfo{com.max.KnotsGuide/com.max.KnotsGuide.KnotsGuide}" drawable="knotsguide" />
 	<item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="chromecast" />
     <item component="ComponentInfo{com.vmware.view.client.android/com.vmware.view.client.android.VMwareViewPcoipActivity}" drawable="vmware" />
