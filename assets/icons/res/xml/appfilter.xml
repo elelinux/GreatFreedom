@@ -19,6 +19,14 @@
     <!-- Set deafult scale factor for the icons -->
     <scale factor="0.9" />
 
+	<item component="ComponentInfo{com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.WikiActivity}" drawable="archwiki" />
+	<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="googlecamera" />
+	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocumentsreader" />
+	<item component="ComponentInfo{com.mikz.androidapp/com.mikz.androidlib.activities.StartupActivity}" drawable="mikz" />
+	<item component="ComponentInfo{com.fomedia.jaktguide/com.fomedia.jaktguide.main}" drawable="jaktguiden" />
+	<item component="ComponentInfo{com.jbirdvegas.mgerrit/com.jbirdvegas.mgerrit.GerritControllerActivity}" drawable="mgerrrit" />
+	<item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.EntryActivity}" drawable="utorrent" />
+	<item component="ComponentInfo{no.nrk.yr/no.nrk.yr.activity.MainActivity}" drawable="yr" />
 	<item component="ComponentInfo{com.fdgentertainment.paperama/by.squareroot.paperama.PaperamaActivity}" drawable="paperama" />
 	<item component="ComponentInfo{se.svenskaspel.android2/se.svenskaspel.android.activity.SvenskaSpelActivity}" drawable="svenskaspel" />
 	<item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="photos" />	
@@ -201,6 +209,7 @@
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.SmartDialerActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.SmartDialerListActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.tmo.LaunchCommunityActivity}" drawable="contacts" />
+
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.TransparentActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" drawable="phone" />
