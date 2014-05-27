@@ -19,6 +19,30 @@
     <!-- Set deafult scale factor for the icons -->
     <scale factor="0.9" />
 
+	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp_messenger" />
+	<item component="ComponentInfo{tunein.player/tunein.ui.activities.TuneInHomeActivity}" drawable="tunelradio" />
+	<item component="ComponentInfo{se.tink.android/tink.frontend.mobile.google.ui.SplashActivity}" drawable="tink" />
+	<item component="ComponentInfo{se.systembolaget.android/se.systembolaget.android.debug.DebugMainActivity}" drawable="systembolaget" />
+	<item component="ComponentInfo{se.bankgirot.swish/se.bankgirot.swish.ui.SplashActivity}" drawable="swish_payment" />
+	<item component="ComponentInfo{se.swedbank.mobil/se.swedbank.mobil.MainMenuActivity}" drawable="swedbank" />
+	<item component="ComponentInfo{air.se.svt.svti.android.svtplayer/air.se.svt.svti.android.svtplayer.AppEntry}" drawable="svtplay" />
+	<item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="supersu" />
+	<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
+	<item component="ComponentInfo{com.fitnesskeeper.runkeeper.pro/com.fitnesskeeper.runkeeper.RunKeeperActivity}" drawable="runkeeper" />
+	<item component="ComponentInfo{se.feomedia.quizkampen/se.feomedia.quizkampenMainActivity}" drawable="quiz" />
+	<item component="ComponentInfo{kik.android/kik.android.chat.fragment.KikFragmentActivity}" drawable="kik" />
+	<item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify" />
+	<item component="ComponentInfo{com.google.android.apps.translate.editors.docs/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" />
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="filemanager2" />
+	<item component="ComponentInfo{com.king.farmheroessaga/com.king.farmheroessaga.FarmHeroesSagaActivity}" drawable="farmheroessaga" />
+	<item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="facebook_messenger" />
+	<item component="ComponentInfo{com.germainz.crappalinks/com.germainz.crappalinks.Preferences-Alias}" drawable="crappa" />
+	<item component="ComponentInfo{com.dvtonder.chronus/com.dvtonder.chronus.preference.PreferencesMain}" drawable="chronus" />
+	<item component="ComponentInfo{com.king.candycrushsaga/com.king.candycrushsaga.CandyCrushSagaActivity}" drawable="candycrashsaga" />
+	<item component="ComponentInfo{com.bankid.bus/com.bankid.bus.activities.InitActivity}" drawable="bankid" />
+	<item component="ComponentInfo{de.roby.android.xposed.mods.appsettings/de.roby.android.xposed.mods.appsettings.XposedModActivity}" drawable="app_settings" />
+	<item component="ComponentInfo{com.sika524.android.quickshortcut/com.sika524.android.quickshortcut.app.CreateActivity}" drawable="shortcut" />
 	<item component="ComponentInfo{com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.WikiActivity}" drawable="archwiki" />
 	<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="googlecamera" />
 	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocumentsreader" />
