@@ -19,6 +19,9 @@
     <!-- Set deafult scale factor for the icons -->
     <scale factor="0.9" />
 
+	<item component="ComponentInfo{com.estrongs.android.taskmanager/com.estrongs.android.taskmanager.HomeActivity}" drawable="filemanager3" />
+	<item component="ComponentInfo{com.estrongs.pop/com_estrongs_android_pop_view_fileexploreractivity}" drawable="filemanager3" />
+	<item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="filemanager3" />
 	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp_messenger" />
 	<item component="ComponentInfo{tunein.player/tunein.ui.activities.TuneInHomeActivity}" drawable="tunelradio" />
 	<item component="ComponentInfo{se.tink.android/tink.frontend.mobile.google.ui.SplashActivity}" drawable="tink" />
@@ -404,6 +407,7 @@
     <item component="ComponentInfo{com.cb.volumePlus/com.cb.volumePlus.main}" drawable="volumeplus" />
     <item component="ComponentInfo{com.cb.volumePlusPro/com.cb.volumePlusPro.main}" drawable="volumeplus" />
     <item component="ComponentInfo{com.cb.volumePlusPro/com.cb.volumePlusPro.presetQuick}" drawable="volumeplus" />
+
     <item component="ComponentInfo{com.cellmania.android.storefront.webview.vmu/com.cellmania.android.storefront.webview.vmu.CM_WebView_StorefrontActivity}" drawable="downloads" />
     <item component="ComponentInfo{com.ceruleanstudios.trillian.android/com.ceruleanstudios.trillian.android.InitialAppLoadingScreen}" drawable="trillian" />
     <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.HomeActivity}" drawable="chase" />
