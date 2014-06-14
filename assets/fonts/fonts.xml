@@ -36,15 +36,4 @@
         </fileset>
     </family>
     
-   <family>
-        <nameset>
-            <name>sans-serif-condensed</name>
-        </nameset>
-        <fileset>
-            <file>LatoSRegCon.ttf</file>
-            <file>LatoSBolCon.ttf</file>
-            <file>LatoSRegConIta.ttf</file>
-            <file>LatoSBolConIta.ttf</file>
-        </fileset>
-    </family>
 </familyset>
