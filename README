@@ -11,7 +11,8 @@ source code can be used as a template, source code is available here
 
 https://github.com/elelinux/GreatFreedom
 
-To build this theme use eclipse or android-studio
+To build this theme use eclipse or android-studio, to build from the source
+for a rom for eg. description can be found at the bottom
 
 GreatFreedom is a theme that is stylishly designed with solid colors, 
 I tried to keep it as close to stock CM as possible apart from the icons.
@@ -49,3 +50,23 @@ Made by Esa Laukkanen <ele.linux@gmail.com>
 
 Widget Border Blue Color
 #55acee
+
+# Howto build the theme in  console "terminal"
+
+1. Remove the bin folder
+2. Add a Android.mk file that looks like this
+
+LOCAL_PATH:= $(call my-dir)
+include $(CLEAR_VARS)
+
+LOCAL_MODULE_TAGS := optional
+
+LOCAL_PACKAGE_NAME := THEME_NAME
+
+LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,xxhdpi -x 10
+
+# LOCAL_CERTIFICATE := name_of_releasekey "additional, place your releasekey in /system/build/target/product/security " for Google Play etc.
+
+include $(BUILD_PACKAGE)
+
+3. Use the tradional build commands " make etc.."
