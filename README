@@ -13,6 +13,18 @@ source code can be used as a template, source code is available here
 
 https://github.com/elelinux/GreatFreedom
 
+For those who want the theme Great Freedom with boot animation, I ahve made 2 versions, Note: just install on newer devices that have at least 512 mb of RAM memory
+
+Great Freedom with boot animation 768x1280
+http://d-h.st/4BY
+
+Great Freedom with boot animation 1080x1920
+http://d-h.st/l7b
+
+Uninstall play store version before installing this
+
+DISCLAIMER: I take no responsibility if your phone does not boot up with the boot animation﻿
+
 To build this theme use eclipse or android-studio, to build from the source
 for a rom for eg. description can be found at the bottom
 
@@ -53,7 +65,7 @@ Made by Esa Laukkanen <ele.linux@gmail.com>
 Widget Border Blue Color
 #55acee
 
-# Howto build the theme in  console "terminal"
+# Howto build the theme in console "terminal"
 
 1. Remove the bin folder
 2. Add a Android.mk file that looks like this
